@@ -1,5 +1,4 @@
-ФИО: Жихарева Надежда Сергеевна
-Возраст: 37
-Количество домашних животных: 1
-Будущая желаемая зарплата: 100
-
+Full name: Zhikhareva Nadezhda Sergeevna
+Age": 37,
+Number of pets: 1,
+Future desired salary: 100

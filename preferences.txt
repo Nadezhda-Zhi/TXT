@@ -1,7 +1,6 @@
-Любимый фильм: Властелин колец
-Любимый сериал: Клиника
-Любимая еда: манго
-Любимое время года: лето
-Страна которую хотели бы посетить: Тайланд
-
+favorite movie: Lord of the rings
+favorite serial: The scrubs
+favorite food: mango
+favorite season: summer
+country you would like to visit: Thailand
 
