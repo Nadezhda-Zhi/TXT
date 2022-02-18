@@ -1,0 +1,15 @@
+Title jf the bug report
+Error description
+
+1. Project: the name of the project where the bug exist
+2. Application component: part or function of the project where the bug is located
+3. Version number: software version number in which the error occurs 
+4. Severity: from S1 to S5
+5. Priority: from P1 to P3
+6. Bug status: bug lifecycle stage
+7. Author: bug reporter
+8. Environment: under what conditions was the bug found
+9. Playback steps: sequence of actions to reproduce the bug
+10. Actual result: the result to which the playback of the steps leads
+11. Expected result: the result to which the playback of steps should lead
+12. Add-ons: additional information
